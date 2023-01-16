@@ -25,5 +25,5 @@ for ($i = 0; $i < count($finalArr); $i++) {
     }
 }
 
-echo "$maxCalories";
+echo $maxCalories;
 ?>
